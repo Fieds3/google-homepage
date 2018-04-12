@@ -1,0 +1,1 @@
+The purpose of this project is to begin implementing the skills that have been introduced across the first handful of lessons. HTML and CSS coding, with the assistance of web dev, will be crucial in completing this project. 
